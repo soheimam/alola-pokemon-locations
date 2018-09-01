@@ -1,5 +1,7 @@
 # Alola Pokemon Locations
 
+git testing
+
 I recently started playing Pokémon Ultra Sun, and one of the things I like doing when I play any Pokémon titles is actually catch them all from the very beginning. This means, it's important for me to know which Pokémon appear on which locations, at what time of the day, area and rate. With Pokémon Sun/Moon and Ultra Sun/Moon, it's also important to know which Pokémon only appear as part of an SOS encounter. This means Pokémon can be found in many different ways.
 
 Despite all this information being out there in Bulbapedia and Smogon, I found it extremely difficult to consume. Not only was the information in a page surrounded by other information that wasn't necessarily relevant to my goal, but moving to a new region in the game meant having to search for a new wiki page and find the information. On top of that, the game's information is displayed in the same wiki page for both the US and USUM, meaning that after finding the information I had to make sure it was that for the game I'm actually playing.
